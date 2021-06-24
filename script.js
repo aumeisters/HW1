@@ -1,5 +1,5 @@
 // HW deep copy & deep compare
-
+//
 // first obj
 let obj1 = {
 	name: "obj1",
